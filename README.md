@@ -5,12 +5,11 @@
     Hi there! 👋 My name is Christina. I'm an aspiring data analyst/data scientist from the San Francisco Bay Area in California. Interests include data visualization, machine learning, predictive analytics, houseplants, and traveling. 
   </samp>
   <br><br>
-  <img src="https://data.whicdn.com/images/297132086/original.gif" width="200px" align="center">
 </p>
 
-- 🌱 Learning about analytics, data science, and marketing
-- 🎓 Grad student at <a href="https://www.mccormick.northwestern.edu/analytics/">Northwestern MSiA</a>
-- ☕️ Find me on <a href="https://www.linkedin.com/in/christina-chang-b9b035147/">LinkedIn</a>
+- 🌱 Learning about data science and marketing
+- 🎓 Currently a grad student at <a href="https://www.mccormick.northwestern.edu/analytics/">Northwestern MSiA</a>, B.S. in Statistics - Statsitical Data Science Track from UC Davis
+- ☕️ Get in touch with me on <a href="https://www.linkedin.com/in/christina-chang-b9b035147/">LinkedIn</a>
 
 #### 🛠 Tools
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
@@ -35,4 +34,5 @@ Here are some ideas to get you started:
 #### ☕️ Get in touch
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/christina-chang-b9b035147/)
 
+<img src="https://data.whicdn.com/images/297132086/original.gif" width="200px" align="center">
 -->
