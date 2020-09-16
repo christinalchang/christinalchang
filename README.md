@@ -1,12 +1,12 @@
 <p align="center">
   <br><br>
   <samp>
-    Hi there! 👋 My name is Christina. I'm an aspiring data analyst/data scientist from the San Francisco Bay Area in California. Interests include data visualization, machine learning, predictive analytics, houseplants, and traveling. 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! My name is Christina. I'm an aspiring data analyst/data scientist from the San Francisco Bay Area in California. Interests include data visualization, machine learning, predictive analytics, houseplants, and traveling. 
   </samp>
   <br><br>
 </p>
 
-- 🌱 Learning about applications of machine learning in search engine optimiation strategies and marketing
+- 🌱 Learning about applications of machine learning in search engine optimization strategies and marketing
 - 🎓 Currently a grad student at <a href="https://www.mccormick.northwestern.edu/analytics/">Northwestern MSiA</a>, B.S. in Statistics - Statsitical Data Science from UC Davis
 - ☕️ Get in touch with me on <a href="https://www.linkedin.com/in/christina-chang-b9b035147/">LinkedIn</a>
 
