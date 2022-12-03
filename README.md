@@ -8,7 +8,7 @@
 <p align="left">
   <samp>
     🌱 Learning about applications of data science in people analytics, which is an area of analytics that reveals actionable insights for decisions regarding employees, work, and business objectives<br>
-    🔭 I'm currently working on projects related to hybrid work, employee sentiment, and employee engagment <br>
+    🧐 I'm currently working on projects related to hybrid work, employee sentiment, and employee engagment <br>
     🎓 <a href="https://www.mccormick.northwestern.edu/analytics/">Northwestern Master of Science in Analytics</a> and <a href="https://statistics.ucdavis.edu/undergrad/bs-statistical-data-science-track">UC Davis B.S. in Statistics - Statsitical Data Science</a> alum<br>
     ☕️ Get in touch with me on <a href="https://www.linkedin.com/in/christina-chang-b9b035147/">LinkedIn</a> <br>
   </samp>
